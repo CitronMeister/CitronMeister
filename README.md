@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CitronMeister&theme=aura_dark) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CitronMeister&theme=aura_dark&utcOffset=2)
